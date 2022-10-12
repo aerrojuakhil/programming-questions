@@ -1,4 +1,4 @@
-# programming-questions
+# <h2>Programming-Questions</h2>
 
 <p>1. Check if a Number is Leap year or not
 <br>2. Find Maximum of 3 numbers
